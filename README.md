@@ -1,3 +1,3 @@
 # PortFolio-
-Retrouver mon Portfolio basé sur un framework Bootstrap.
+Retrouver mon Portfolio basé sur le framework Bootstrap.
 Vous trouverez également la version traduit en Anglais.. 
